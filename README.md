@@ -1,7 +1,7 @@
 # cuda-atm-solver
 A bi-conjugate gradient solver for atmospheric simulations
 
-Uncompress the data
+Decompress the data
 ```
 tar -xvzf data.tar.gz
 ```
